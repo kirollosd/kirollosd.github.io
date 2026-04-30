@@ -3,4 +3,4 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Kirollos Dawod, Director of Operations Excellence at Octane Technology in Cairo. I write about operations, systems, and side projects I'm building on the side. This blog is a working notebook — expect rough edges and revisions.
+I'm Kirollos Dawod, based in Cairo. I work in operations and write here about systems, ops, and side projects I'm building. This blog is a working notebook — expect rough edges and revisions.
